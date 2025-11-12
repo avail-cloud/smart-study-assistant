@@ -1,0 +1,51 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore the virtual environment folder (commonly used as "venv", but can vary)
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore distribution and build files (for packaging Python apps)
+build/
+dist/
+*.egg-info/
+*.egg
+*.log
+
+# Ignore configuration and environment files
+*.env
+*.venv
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+.coverage.*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE/editor-specific files
+.idea/
+.vscode/
+
+# Ignore system files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignore PyCharm-specific files
+.idea/
+
+# Ignore other editor-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore backup files
+*~

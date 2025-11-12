@@ -1,0 +1,12 @@
+# FastAPI microservice dependencies (Python 3.13 compatible)
+fastapi>=0.112.0
+uvicorn[standard]>=0.30.0
+openai>=1.50.0
+pillow>=11.0.0
+pytesseract>=0.3.10
+transformers>=4.46.0
+datasets>=3.0.0
+peft>=0.12.0
+accelerate>=1.0.1
+scikit-learn>=1.5.2
+torch>=2.5.0
