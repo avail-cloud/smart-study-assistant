@@ -8,3 +8,10 @@
 2025-11-12T21:26:03.541372,qa,0.8517,google/flan-t5-small,,
 2025-11-12T21:26:21.560841,qa,0.7462,google/flan-t5-small,,
 2025-11-12T21:27:08.525551,qa,0.8028,google/flan-t5-small,,
+2025-11-14T17:51:36.765650,explain,1.1315,google/flan-t5-small,,
+2025-11-14T17:53:10.611111,upload_image,0.0000,pytesseract,,ocr_extracted
+2025-11-14T17:53:40.507782,upload_image,0.0000,pytesseract,,ocr_extracted
+2025-11-14T18:00:35.685062,qa,1.2173,google/flan-t5-small,,
+2025-11-14T21:29:35.440874,qa,0.8486,google/flan-t5-small,,
+2025-11-14T21:29:41.906184,qa,0.7504,google/flan-t5-small,,
+2025-11-14T23:34:53.668470,qa,0.7530,google/flan-t5-small,,
